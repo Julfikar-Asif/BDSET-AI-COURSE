@@ -1,0 +1,11 @@
+Date,Product,Region,Units_Sold,Unit_Price
+1/1/2024,A,North,120,50
+1/2/2024,B,South,80,60
+1/3/2024,A,East,150,50
+1/4/2024,C,West,200,40
+1/5/2024,B,North,90,60
+1/6/2024,A,South,110,50
+1/7/2024,C,East,170,40
+1/8/2024,B,West,130,60
+1/9/2024,A,North,160,50
+1/10/202,C,South,140,40
